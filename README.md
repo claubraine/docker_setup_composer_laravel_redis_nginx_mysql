@@ -10,7 +10,7 @@ git clone https://github.com/claubraine/docker_setup_composer_laravel_redis_ngin
 **Clone os Arquivos do Laravel**
 
 ```bash
-git clone https://github.com/laravel/laravel.git novo-projeto
+git clone https://github.com/laravel/laravel.git novo_projeto
 ```
 
 **Copie os arquivos docker-compose.yml, Dockerfile e o diretório docker/ para o seu projeto**
