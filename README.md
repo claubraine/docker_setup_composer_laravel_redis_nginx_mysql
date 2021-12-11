@@ -1,5 +1,12 @@
 # Docker Setup Composer Laravel
 
+* docker
+* composer
+* laravel
+* redis
+* nginx
+* mysql
+
 **Clone Repositório**
 
 ```bash
