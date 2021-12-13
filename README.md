@@ -11,7 +11,14 @@
   <img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-# Docker Setup Composer Laravel
+# Docker Setup Laravel
+  
+* docker
+* composer
+* laravel
+* redis
+* nginx
+* mysql
 
 **Clone Repositório**
 
